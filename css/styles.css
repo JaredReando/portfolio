@@ -1,15 +1,29 @@
 /* .max_height div {
   height: 100%;
 } */
+.menu_link {
+    display: block;
+    width: auto;
+    font-size: auto;
+    margin-left: 20%;
+}
+
 .profile_edit {
   width: 60%;
   display: block;
+  margin-top: 30px;
   margin-left: auto;
   margin-right: auto;
+  border: 2px solid black;
 }
+
+
+.semi-transparent {
+  background:rgba(255,255,255,0.5)
+}
+
 .semi-transparent p {
-  background-color: gray;
-  opacity: 0.2;
+  background-color: rgba(255,255,255,0.5)
 }
 
 /* sets background image and scales to resize with screen */
