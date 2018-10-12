@@ -1,7 +1,6 @@
-.back {
-  background: url(portfolio/img/back.jpg);
-  width: auto;
-}
+/* .max_height div {
+  height: 100%;
+} */
 
 .no_padding * {
   padding-right: 0px;
