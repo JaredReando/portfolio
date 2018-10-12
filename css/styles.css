@@ -1,12 +1,16 @@
-.intro {
-  background-image: url(img/back.jpg);
+.back {
+  background: url(portfolio/img/back.jpg);
+  width: auto;
 }
 
-.middle {
-
+.center {
+  text-align: center;
 }
 
-.bottom {
+.nav_bar {
+  height: 800px;
+  border: 4px solid black;
+
 
 
 }
