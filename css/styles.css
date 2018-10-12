@@ -2,6 +2,13 @@
   height: 100%;
 } */
 
+.back {
+    background: url(http://placekitten.com/720/405/) no-repeat center center;
+    background-size: cover;
+    height: 0;
+    padding-bottom: 56.25%; /* 16:9 */
+  }
+
 .no_padding * {
   padding-right: 0px;
   padding-left: 0px;
