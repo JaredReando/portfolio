@@ -8,12 +8,20 @@
     margin-left: 20%;
 }
 
+.active_page {
+  background:rgba(255,255,255,0.5)
+}
+
+.big_bold{
+  font-size: 3em;
+}
 .profile_edit {
   width: 20%;
   display: block;
   margin-top: 100px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 20px;
   border: 2px solid black;
 }
 
@@ -31,7 +39,7 @@
     background: url(../img/back.jpg) no-repeat center center;
     background-size: cover;
     height: 0;
-    padding-bottom: 56.25%;
+    padding-bottom: 70.25%;
   }
 
 .no_padding * {
