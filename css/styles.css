@@ -8,6 +8,10 @@
     margin-left: 20%;
 }
 
+.italics {
+  font-style: italic;
+}
+
 .active_page {
   background:rgba(255,255,255,0.5)
 }
@@ -16,7 +20,7 @@
   font-size: 3em;
 }
 .profile_edit {
-  width: 20%;
+  width: 10%;
   display: block;
   margin-top: 100px;
   margin-left: auto;
@@ -26,9 +30,9 @@
 }
 
 
-.semi-transparent {
+/* .semi-transparent {
   background:rgba(255,255,255,0.5)
-}
+} */
 
 .semi-transparent p {
   background-color: rgba(255,255,255,0.5)
