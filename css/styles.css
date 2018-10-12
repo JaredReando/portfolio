@@ -3,6 +3,11 @@
   width: auto;
 }
 
+.no_padding * {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
 .text_wrap p {
   word-wrap: break-word;
   padding-right: 5%;
