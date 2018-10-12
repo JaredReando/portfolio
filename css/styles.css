@@ -3,14 +3,25 @@
   width: auto;
 }
 
-.center {
+.header_bar {
+  height: 20%;
+}
+
+.center_text {
   text-align: center;
 }
 
 .nav_bar {
-  height: 800px;
+  height: 80%;
   border: 4px solid black;
+  font-size: 15px;
+}
 
+.box {
+  background: green;
+  border: 4px solid black;
+}
 
-
+body_height {
+  height: 80%;
 }
