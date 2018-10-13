@@ -28,11 +28,10 @@ _{Please direct all constructive criticism and frenzied praise to my personal em
 
 ## Technologies Used
 
-_{
-  Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_{My main goal with this project was to wrap my head around <div> tags and nested rows and columns. I also experimented at length with the site's aesthetic possibilities by adjusting object opacities, image scaling, and element positioning. Custom classes to override/modify Bootstrap features were also a major part of my work on this project, as I am still plodding through the CSS and Bootstrap documentation to learn it's expanded feature set.}_
 
 ### License
 
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 
-Copyright (c) 2016 **_{Jared Reando}_**
+Copyright (c) 2016 MIT License **_{Jared Reando}_**
