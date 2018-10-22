@@ -1,0 +1,58 @@
+body {
+  background-image: url("../img/hithere.jpg");
+  background-size: 70px;
+  background-repeat: repeat;
+}
+
+.container {
+  margin-top: 0px;
+  padding: 70px;
+}
+
+.outline {
+  border: 2px solid red;
+  padding: 40px;
+}
+
+/* body {
+  text-align: center;
+} */
+.row {
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 50px;
+  background-color: rgb(240, 240, 240, 0.9);
+}
+
+.hello {
+  text-align: center;
+  margin-top: 100px;
+}
+
+H1 {
+  text-align: center;
+  font-size: 6em;
+  background: rgb(240, 240, 240, 0.9);
+  padding: 60px;
+  margin-top: 0px;
+
+}
+
+img {
+  display: block;
+  width: 300px;
+  margin-left: 0px;
+  margin-right: auto;
+  border: 4px solid black;
+  float: left;
+
+}
+
+.center {
+  text-align: center;
+}
+
+.custom {
+  float: left;
+}

@@ -6,9 +6,9 @@
 
 ## Description
 
-_This is my personal portfolio web page. You can review current and completed projects I have on GitHub, as well as find out a little more about me. The initial purpose of this site is to practice and showcase what I learned during the first week of Epicodus classes learning HTML and CSS. The site will be updated over time to reflect additional skills and further completed projects.
+_This is my personal portfolio web page. You can review current and completed projects I have on GitHub, as well as find out a little more about me. The initial purpose of this site is to practice and showcase what I learned during the first week of Epicodus classes learning HTML and CSS. The site will be updated over time to reflect additional skills and further completed projects._
 
-View a hosted version of this project [here](https://jaredreando.github.io/portfolio/)__
+_View a hosted version of this project [here](https://jaredreando.github.io/portfolio/)_
 
 ## Setup/Installation Requirements
 
